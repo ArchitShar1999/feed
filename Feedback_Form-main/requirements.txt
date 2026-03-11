@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydantic[email]
+python-dotenv
+motor
+pymongo>=4.8.0
+aiofiles
